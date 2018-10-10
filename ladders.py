@@ -1,4 +1,5 @@
-# Reza, TUM Informatics
+__author__ = "Reza, Technical University of Munich"
+__email__ = "reza.rahman@tum.de"
 
 import collections
 import sys
